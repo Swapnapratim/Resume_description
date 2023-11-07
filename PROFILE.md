@@ -1,7 +1,9 @@
 # Experienced BlockChain & Full Stack Engineer with a demonstrated history of working in the computer software industry.
-Majored in Computer Science
-Loves to challenge technical difficulties and learn new technologies
-Full of creative thinking and highly experienced in various fields
+
+ * Majored in Computer Science
+ * Loves to challenge technical difficulties and learn new technologies
+ * Full of creative thinking and highly experienced in various fields
+  
 Highly specialized in Blockchain technologies including Ethereum / Solidity, Zk-proofs, EVM, Chainlink oracles, Smart contract auditing, Foundry / Hardhat
 Skilled in web frontend development with React / Next.js, Bootstrap, and so on.
 Well versed in backend development with NodeJs, Python, SQL and NoSQL databases, REST API and GraphQL.
